@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Developer | DevSecOps Engineer | CyberOps | APIs, Docker, CI/CD, Segurança|Infraestrutura
+Analista de Sistemas & Redes | Desenvolvedor Java | Desenvolvedor Mobile (Flutter/Android) | DevSecOps | NOC N2 | CyberOps
 
 
 # 💻 Tech Stack:
